@@ -1,0 +1,3 @@
+- server:
+  - static:
+      file: index.html
